@@ -41,7 +41,7 @@ python devauto_main.py
 
 ## 🖥 لقطات من التطبيق
 
-![DevAuto GUI Screenshot]((https://ibb.co/KpxjJ6HG))
+![DevAuto GUI Screenshot] ((https://ibb.co/KpxjJ6HG))
 
 ---
 
